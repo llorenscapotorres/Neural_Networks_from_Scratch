@@ -28,7 +28,11 @@ This repository is dedicated to building and understanding **neural networks fro
 
 3. **Install the required dependencies**:
 
-`pip install -r requirements.txt`
+`conda env create -f environment.yml`
+
+4. **Activate de conda environment**:
+
+`conda activate neural_networks`
 
 ## 🧠 Models You'll Find
 

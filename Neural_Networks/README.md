@@ -1,0 +1,1 @@
+All the code in this folder is property of **Andrej Karpathy**, and can be found in his Youtube channel at https://www.youtube.com/@AndrejKarpathy. This repository only aims to replicate the code for educative proposals.
